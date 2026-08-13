@@ -38,3 +38,13 @@ Siga o passo a passo abaixo para executar a aplicação localmente:
 git clone https://github.com/jocxzs/Recursos_Nativos
 cd DeviceResourcesApp
 ```
+### 2. Instalar as Dependências
+```bash
+npm i
+```
+### 3. Rodar o Projeto
+```bash
+npx expo start
+```
+
+
