@@ -1,4 +1,4 @@
-```markdown
+
 # DeviceResourcesApp 📱
 
 O **DeviceResourcesApp** é um aplicativo mobile desenvolvido em React Native com Expo que demonstra a integração e utilização de recursos nativos do dispositivo, como a galeria de imagens e a lista de contatos.
@@ -37,5 +37,4 @@ Siga o passo a passo abaixo para executar a aplicação localmente:
 ```bash
 git clone https://github.com/jocxzs/Recursos_Nativos
 cd DeviceResourcesApp
-
 ```
